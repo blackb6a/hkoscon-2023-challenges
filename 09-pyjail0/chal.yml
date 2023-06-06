@@ -1,0 +1,21 @@
+# other metadata fields
+enabled: true
+author: 'cire_meat_pop'
+categories:
+  - pwn
+  - ★☆☆☆☆
+points: 100
+released_at: '2022-11-11 10:00:00'
+flag: 'hkcert21{eval_or_evil}'
+deployment:
+  resources:
+    limits:
+      cpu: "1"
+      memory: "512Mi"
+  type: normal
+  port: 28009
+  stateful: false
+metadata:
+  location:
+    lat: 22.38124
+    lon: 114.18993

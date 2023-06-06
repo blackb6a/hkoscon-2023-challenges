@@ -1,0 +1,21 @@
+# other metadata fields
+enabled: true
+author: 'ozetta'
+categories:
+  - web
+  - ★★☆☆☆
+points: 100
+released_at: '2022-11-11 10:00:00'
+flag: 'hkcert20{Roses_are_Red_Violets_are_Blue_Hashes_are_Brown}'
+deployment:
+  resources:
+    limits:
+      cpu: "1"
+      memory: "512Mi"
+  type: normal
+  port: 28001
+  stateful: false
+metadata:
+  location:
+    lat: 22.38124
+    lon: 114.18993

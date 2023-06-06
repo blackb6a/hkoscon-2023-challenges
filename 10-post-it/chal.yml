@@ -1,0 +1,21 @@
+# other metadata fields
+enabled: true
+author: 'harrier'
+categories:
+  - reverse
+  - ★★☆☆☆
+points: 100
+released_at: '2022-11-11 10:00:00'
+flag: 'hkcert22{d0-y0u-u53-m3m01z4t1oN-0r-ju5t-i7i73r4t1v3-0R-ju5t-g00g13?}'
+deployment:
+  resources:
+    limits:
+      cpu: "1"
+      memory: "512Mi"
+  type: normal
+  port: 28010
+  stateful: false
+metadata:
+  location:
+    lat: 22.38124
+    lon: 114.18993

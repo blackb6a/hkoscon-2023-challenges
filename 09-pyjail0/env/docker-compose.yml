@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  pyjail0:
+    build: ./chall
+    ports:
+      - "6009:1337"
+    deploy: {resources: {limits: {cpus: '1', memory: 256M}}}
+    restart: unless-stopped
