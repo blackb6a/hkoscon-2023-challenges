@@ -1,7 +1,7 @@
 # hkoscon-2023-challenges
 
 | ID | Title | Author | Categories | Stars |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 1 | [爆鎖鴨第三代 (其一) / LockPickDuck v3 (I)](01-lockpickduck-v3) | ozetta | web | ★★☆☆☆ |
 | 9 | [Python calculator / Python calculator](09-pyjail0) | cire_meat_pop | pwn | ★☆☆☆☆ |
 | 10 | [便條紙 / Post-it](10-post-it) | harrier | reverse | ★★☆☆☆ |
