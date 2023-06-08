@@ -12,4 +12,5 @@
 | 39 | [美麗都大廈 / Spyce](https://github.com/blackb6a/hkcert-ctf-2022-challenges/tree/main/39-spyce) | ozetta | web | ★☆☆☆☆ |
 | 46 | [米埔自然護理區 / fiddler-crab](https://github.com/blackb6a/hkcert-ctf-2022-challenges/tree/main/46-chess) | harrier | reverse | ★☆☆☆☆ |
 | 51 | [九龍公園 / Catch-22](https://github.com/blackb6a/hkcert-ctf-2022-challenges/tree/main/51-catch-22) | Mystiz | crypto | ★☆☆☆☆ |
+| 51 | [九龍公園 / Catch-22](https://github.com/samueltangz/ctf-archive-created/tree/master/20230304-mocsctf/catch-22) | Mystiz | crypto | ★★☆☆☆ |
 
